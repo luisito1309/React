@@ -1,0 +1,44 @@
+.home {
+    background-image: url('https://images.unsplash.com/photo-1509042239860-f550ce710b93'); /* Puedes cambiar por una imagen tuya */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: #d4af37;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .home-content {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 3rem;
+    border-radius: 20px;
+    max-width: 600px;
+  }
+  
+  .home-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .home-content p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .btn-mafia {
+    background-color: #d4af37;
+    color: #111;
+    padding: 0.8rem 2rem;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 30px;
+    transition: background 0.3s ease;
+  }
+  
+  .btn-mafia:hover {
+    background-color: #fff;
+    color: #000;
+  }
+  

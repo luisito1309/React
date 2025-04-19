@@ -1,0 +1,24 @@
+.acerca {
+    background-color: #1a1a1a;
+    color: #d4af37;
+    padding: 4rem 2rem;
+  }
+  
+  .acerca-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .acerca h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .acerca p {
+    font-size: 1.1rem;
+    color: #ccc;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+  }
+  
